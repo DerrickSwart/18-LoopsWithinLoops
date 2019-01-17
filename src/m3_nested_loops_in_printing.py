@@ -313,4 +313,3 @@ def triangle_all_numbers_in_each_row(r):
 # Calls  main  to start the ball rolling.
 # ----------------------------------------------------------------------
 main()
- 
